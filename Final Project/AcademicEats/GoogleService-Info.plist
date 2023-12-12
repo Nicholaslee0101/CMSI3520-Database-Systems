@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>820144653082-gt0h2hlnsi1a2l7jtc4ihm84p9rqcjch.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.820144653082-gt0h2hlnsi1a2l7jtc4ihm84p9rqcjch</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwfgmb-aSrDAYS52Eprsa5e9NvzuwtWJ0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>820144653082</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>lmu.edu.AcademicEats</string>
+	<key>PROJECT_ID</key>
+	<string>academiceats-a1246</string>
+	<key>STORAGE_BUCKET</key>
+	<string>academiceats-a1246.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:820144653082:ios:c4b4a1291a8769686262a3</string>
+</dict>
+</plist>
